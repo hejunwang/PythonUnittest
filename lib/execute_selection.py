@@ -30,15 +30,14 @@ def execute_selection():
         path1 = str_2_tuple(resutFilePath)
         starttime = get_specific_time()
         print(starttime)
-        # ret 是装饰器返回的
+        # ret 是装饰器返回的,返回的是元组
         ret = execute_script(scriptPath)
         print(ret)
         print(type(ret))
         endtime = get_specific_time()
         print(endtime)
         duration = (endtime-starttime).microseconds*0.00001
-        #转化成字符串形式
-        # fileResult = (path1,str(ret),str(starttime),str(endtime),str(duration))
+        #转化成元组
         fileResult = path1+ret+str_2_tuple(starttime)+str_2_tuple(endtime)+str_2_tuple(duration)
 
         generate_result(resutFilePath,fileResult)

@@ -8,6 +8,7 @@
 import sys ,os
 import time
 import csv
+from lib.generate_html import write_csv_to_html
 
 
 #生成测试报告
@@ -19,12 +20,15 @@ def generate_result(resultFileName,result):
     print('generate resultfilepath %s ' %resultFilePath)
 
 
-    #写文件到csv中
-    csvFile = open(resultFileName, 'a+')
+    #写文件到csv中,使用的python3 环境 ,默认后面是有一个"\n" ,所以使用newline='' 表示不增加换行符
+    csvFile = open(resultFileName, 'a+',encoding='utf-8',newline='')
     writer = csv.writer(csvFile)
     data = [result]
     writer.writerows(data)
     csvFile.close()
+
+    html_result_path = os.path.join(os.getcwd(),'results',resultFileName+".html")
+    write_csv_to_html(resultFilePath,html_result_path)
 
 
 if __name__ == '__main__':
