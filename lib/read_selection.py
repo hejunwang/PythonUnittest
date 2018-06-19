@@ -20,7 +20,7 @@ def read_selection():
 
     for line in open(selectionFilepath):
         selecton.append(line.replace('\n',''))
-        print('文件列表的名称: '+line)
+        print('文件路径: '+line)
     return selecton
         
 

@@ -15,13 +15,16 @@ def create_selection():
 	print(path)
 	print(os.getcwd())
 	selection = []
-	for root,dirs,files in os.walk(path,'scripts'):
+	scriptPath =os.path.join(path,'scriptscase')
+	print(scriptPath)
+	#查找脚本文件
+	for root,dirs,files in os.walk(scriptPath):
 		print('root: %s' %root)
 		print("dirs :%s" %dirs)
 		print("files %s" %files)
 		for fileName in files:
 			if check_if_python(fileName):
-				selection.append(os.path.join(path,fileName))
+				selection.append(os.path.join(scriptPath,fileName))
 				
 	cur_file =os.path.basename(sys.argv[0])
 	print('cur_file-->'+cur_file)

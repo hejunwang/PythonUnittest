@@ -1,0 +1,9 @@
+框架配置说明;
+1.requirements 文件中包含了需要安装的python文件
+2.utils文件夹中包含了一些可以调用的工具类
+3.lib文件夹中存放支持框架运行的类
+4.scripts 文件夹中存放测试用例的脚本
+5.result 存放生成的测试结果报告
+6.log文件存放测试用例产生的日志
+7.setup.py文件自动安装框架所需的库文件 使用 pip3 freeze >requirements.txt
+8.start.py文件自动运行scripts文件夹中的测试脚本
