@@ -1,0 +1,4 @@
+ScriptsPath,Detail,StartTime,Endtime,Duration
+I:\PythonUnittest\scripts\scriptscase\test.py,No exception in execute_scriptmethod,2018-06-24 22:46:48.625436,2018-06-24 22:46:59.742058,1.16622
+I:\PythonUnittest\scripts\scriptscase\test2.py,No exception in execute_scriptmethod,2018-06-24 22:46:59.748057,2018-06-24 22:47:08.850574,1.0251700000000001
+I:\PythonUnittest\scripts\scriptscase\test3.py,No exception in execute_scriptmethod,2018-06-24 22:47:08.856568,2018-06-24 22:47:09.037577,1.8100900000000002

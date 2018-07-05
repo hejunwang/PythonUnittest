@@ -39,6 +39,7 @@ def execute_selection():
         ret = execute_script(scriptPath)
         print('ret 返回值: %s,类型是 %s ' %(ret,type(ret)))
 
+
         endtime = get_specific_time()
         print('endtime :{}'.format(endtime))
         duration = (endtime-starttime).microseconds * 0.00001
@@ -54,8 +55,9 @@ def execute_script(scriptPath):
     print('开始执行脚本')
     #这里 有个bug就是,os.system执行的时间,如果有异常 , 装饰器已经把日志都写到了文件中
     # ,爆出来了错误,也没有办法写到日志中
-    os.system('python3 ' + scriptPath)
-
+    # os.system('python3 ' + scriptPath)
+    re = os.popen('python3 ' + scriptPath).read()
+    print('re-->{}'.format(re))   #这里得到的re 都是测试用例执行中的print 输出
 
 
 if __name__ == '__main__':

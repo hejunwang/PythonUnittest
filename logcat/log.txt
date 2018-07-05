@@ -1,54 +1,36 @@
-2018-06-18 20:52:40 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 20:52:41 No exception in execute_scriptmethod
-2018-06-18 20:52:41 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 20:52:41 No exception in execute_scriptmethod
-2018-06-18 20:52:41 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 20:52:41 No exception in execute_scriptmethod
-2018-06-18 21:23:43 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
-2018-06-18 21:23:55 No exception in execute_scriptmethod
-2018-06-18 21:23:55 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
-2018-06-18 21:24:04 No exception in execute_scriptmethod
-2018-06-18 21:24:04 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
-2018-06-18 21:24:04 No exception in execute_scriptmethod
-2018-06-18 21:27:45 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 21:27:45 No exception in execute_scriptmethod
-2018-06-18 21:27:45 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 21:27:45 No exception in execute_scriptmethod
-2018-06-18 21:27:45 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 21:27:46 No exception in execute_scriptmethod
-2018-06-18 21:31:15 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 21:31:15 No exception in execute_scriptmethod
-2018-06-18 21:31:15 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 21:31:15 No exception in execute_scriptmethod
-2018-06-18 21:31:15 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 21:31:15 No exception in execute_scriptmethod
-2018-06-18 21:47:04 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 21:47:04 No exception in execute_scriptmethod
-2018-06-18 21:47:04 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 21:47:04 No exception in execute_scriptmethod
-2018-06-18 21:47:04 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 21:47:04 No exception in execute_scriptmethod
-2018-06-18 21:56:11 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 21:56:11 No exception in execute_scriptmethod
-2018-06-18 21:56:11 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 21:56:11 No exception in execute_scriptmethod
-2018-06-18 21:56:11 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 21:56:12 No exception in execute_scriptmethod
-2018-06-18 22:01:49 execute_script :I:\PythonUnittest\scripts\test.py
-2018-06-18 22:01:49 No exception in execute_scriptmethod
-2018-06-18 22:01:49 execute_script :I:\PythonUnittest\scripts\test2.py
-2018-06-18 22:01:49 No exception in execute_scriptmethod
-2018-06-18 22:01:49 execute_script :I:\PythonUnittest\scripts\test3.py
-2018-06-18 22:01:49 No exception in execute_scriptmethod
-2018-06-18 22:03:52 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
-2018-06-18 22:04:04 No exception in execute_scriptmethod
-2018-06-18 22:04:04 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
-2018-06-18 22:04:13 No exception in execute_scriptmethod
-2018-06-18 22:04:13 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
-2018-06-18 22:04:13 No exception in execute_scriptmethod
-2018-06-18 22:45:37 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
-2018-06-18 22:45:48 No exception in execute_scriptmethod
-2018-06-18 22:45:48 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
-2018-06-18 22:45:57 No exception in execute_scriptmethod
-2018-06-18 22:45:57 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
-2018-06-18 22:45:57 No exception in execute_scriptmethod
+2018-06-24 22:34:12 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:34:23 No exception in execute_scriptmethod
+2018-06-24 22:34:23 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:34:32 No exception in execute_scriptmethod
+2018-06-24 22:34:32 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:34:33 No exception in execute_scriptmethod
+2018-06-24 22:38:12 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:38:23 No exception in execute_scriptmethod
+2018-06-24 22:38:23 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:38:32 No exception in execute_scriptmethod
+2018-06-24 22:38:32 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:38:33 No exception in execute_scriptmethod
+2018-06-24 22:40:00 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:40:11 No exception in execute_scriptmethod
+2018-06-24 22:40:11 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:40:20 No exception in execute_scriptmethod
+2018-06-24 22:40:20 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:40:20 No exception in execute_scriptmethod
+2018-06-24 22:41:32 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:41:43 No exception in execute_scriptmethod
+2018-06-24 22:41:43 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:41:52 No exception in execute_scriptmethod
+2018-06-24 22:41:52 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:41:52 No exception in execute_scriptmethod
+2018-06-24 22:42:44 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:42:55 No exception in execute_scriptmethod
+2018-06-24 22:42:55 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:43:04 No exception in execute_scriptmethod
+2018-06-24 22:43:04 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:43:04 No exception in execute_scriptmethod
+2018-06-24 22:46:48 execute_script :I:\PythonUnittest\scripts\scriptscase\test.py
+2018-06-24 22:46:59 No exception in execute_scriptmethod
+2018-06-24 22:46:59 execute_script :I:\PythonUnittest\scripts\scriptscase\test2.py
+2018-06-24 22:47:08 No exception in execute_scriptmethod
+2018-06-24 22:47:08 execute_script :I:\PythonUnittest\scripts\scriptscase\test3.py
+2018-06-24 22:47:09 No exception in execute_scriptmethod

@@ -20,7 +20,7 @@ def exe_deco(func):
             write_log(log)
             result = result+str_2_tuple(log)
         else:
-            print('ret --> %s' %ret)
+            print('exe_deco ret --> %s' %ret)
             log = 'No exception in '+func.__name__+"method"
             write_log(log)
             result = result+str_2_tuple(log)

@@ -4,7 +4,7 @@
 # @Last Modified by:   Administrator
 # @Last Modified time: 2018-06-02 21:32:55
 
-import sys
+
 import os
 
 # 读取要执行的脚本文件
